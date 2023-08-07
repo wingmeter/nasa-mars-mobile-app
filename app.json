@@ -5,6 +5,10 @@
       "bundler": "metro"
     },
     "name": "MarsMobileApp",
-    "slug": "MarsMobileApp"
+    "slug": "MarsMobileApp",
+    "splash": {
+      "image": "./assets/splashMars.png",
+      "resizeMode": "cover"
+    }
   }
 }
